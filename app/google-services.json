@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "246320807104",
+    "firebase_url": "https://apna-hathras.firebaseio.com",
+    "project_id": "apna-hathras",
+    "storage_bucket": "apna-hathras.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246320807104:android:69b9696517d81a0f1a0125",
+        "android_client_info": {
+          "package_name": "com.apnahathras"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246320807104-7mn76jj0b852no40fbt06vsseuhjqh38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFJazX8G5FyHeVFowVuFLv7dfFz-Q9u7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246320807104-7mn76jj0b852no40fbt06vsseuhjqh38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
